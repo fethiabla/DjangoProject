@@ -11,4 +11,3 @@ pip install -r requirements.txt # insttaller requirements pour les bibliotheques
 
 django-admin startproject nom_du_projet # CRÉER UN NOUVEAU PROJET
 python manage.py startapp nom_de_l’app # CRÉER UNE APPLICATION
-
